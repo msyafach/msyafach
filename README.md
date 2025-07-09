@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @msyafach
-- 👀 I’m interested in Business Intelligence Field
-- 🌱 I’m currently learning MySQL
+- 😊 You can follow me on instagram @m_syafa_ch
+- 👀 I’m interested in Data Analytics and AI Engineering
+- 🌱 I’m currently learning Langgraph, a framework for building AI Agent
 - 📫 You can email me at msyafach@gmail.com
 
 My Current LeetCode progress: <br/>
